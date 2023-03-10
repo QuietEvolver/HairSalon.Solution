@@ -1,4 +1,5 @@
 #  Eau Claire's Salon
+![alt](HairSalon/wwwroot/img/hs.png "hs_art")
 
 #### By Vera Weikel 
 
@@ -55,7 +56,7 @@ This is a website where for a salon owner able to select a stylist from a list, 
   <!-- https://ondras.zarovi.cz/sql/demo/ -->
   <!-- https://www.learnhowtoprogram.com/c-and-net/database-basics/to-do-list-animal-shelter-and-inventory-->
   <!-- ![alt text](Isolated.png "Title") -->
-  
+
 ![alt](HairSalon/wwwroot/img/vw_database_structure.png "vw_database_structure")
 
 ## Known Bugss
