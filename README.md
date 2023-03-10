@@ -1,6 +1,6 @@
 #  Eau Claire's Salon
 
-#### ByVera Weikel 
+#### By Vera Weikel 
 
 #### This is a project to build Basic Web Application using ASP .Net, EF Core, MVC, and SQL databases.
 
