@@ -11,6 +11,7 @@
 * EFCore
 * ASP.Net MVC
 * Razor
+* SQL 
 * SQL Workbench
 
 ## Goals/Objectives
