@@ -52,8 +52,7 @@ This is a website where for a salon owner able to select a stylist from a list, 
 
 ## Database Architecture
 
-![alt](BestRestaurants/Views/wwwroot/img/database_structure.png "database_structure")
-<!-- ![alt](InventoryPreparedness/wwwroot/img/readme_sql.png "readme_sql") -->
+![alt](InventoryPreparedness/wwwroot/img/readme_sql.png "readme_sql")
   <!-- https://ondras.zarovi.cz/sql/demo/ -->
   <!-- https://www.learnhowtoprogram.com/c-and-net/database-basics/to-do-list-animal-shelter-and-inventory-->
   <!-- ![alt text](Isolated.png "Title") -->
