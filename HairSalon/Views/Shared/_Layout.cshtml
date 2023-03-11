@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="~/css/styles.css">
   </head>
   <body>
+    @await Html.PartialAsync("Header")
+    <hr />
+    <li><img src='~/img/hs.png'/></li>
     @RenderBody()
     @await Html.PartialAsync("Footer")
   </body>
