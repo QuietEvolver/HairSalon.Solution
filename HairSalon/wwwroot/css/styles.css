@@ -1,3 +1,19 @@
+div#body {
+  background-color: linen;
+	align-content: center;
+	background-image: cover;
+}
+
+div#header {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#97adcc;
+	padding:8px; 
+}
+
 div#footer {
 	position:fixed;
 	bottom:0px;
@@ -8,6 +24,3 @@ div#footer {
 	padding:8px;
 }
 
-body {
-  background-color: linen;
-}
